@@ -1,3 +1,7 @@
+# 前端黑马程序员的项目
+* 传这大家学习学习吧
+
+
 # vue_shop
 
 ## Project setup
